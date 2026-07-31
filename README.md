@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0059-spiral-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
