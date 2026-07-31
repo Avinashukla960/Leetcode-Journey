@@ -6,10 +6,12 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
