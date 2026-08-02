@@ -8,6 +8,7 @@
 | [0169-majority-element](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0704-binary-search) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Two Pointers
 |  |
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
