@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@
 | [0278-first-bad-version](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
