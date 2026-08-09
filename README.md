@@ -83,4 +83,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
