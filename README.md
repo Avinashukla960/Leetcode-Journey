@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0059-spiral-matrix-ii](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0169-majority-element](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0704-binary-search) |
@@ -16,6 +17,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0367-valid-perfect-square) |
 ## Newton's Method
 |  |
