@@ -13,6 +13,7 @@
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Two Pointers
 |  |
@@ -20,6 +21,7 @@
 | [0189-rotate-array](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/Avinashukla960/Leetcode-Journey/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
